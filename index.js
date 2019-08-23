@@ -11,7 +11,7 @@ const interface = interfaces[interface_name];
 const interface_ip = interface ? interface.find(int => int.family == 'IPv4').address : 'Unknown IP';
 
 // Server port
-const port = 80;
+const port = 1337;
 
 // Routes
 app.get('/', async (req, res) => {    

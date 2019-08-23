@@ -1,14 +1,14 @@
 {
-    "name": "webapp",
-    "version": "1.0.0",
-    "description": "This is a simple web server a ML assignment!",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.17.1"
-    }
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "This is a simple web server a ML assignment!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
   }
+}
